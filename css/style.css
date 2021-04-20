@@ -1,0 +1,25 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+
+main{
+    margin:10px;
+    padding:10px;
+}
+
+section{
+    border-top:2px solid #707070;
+    margin-top:20px;
+    
+}
+
+#msg{
+    height: 50px;
+}
+
+#form-pessoa{
+    display:none;
+}
+
